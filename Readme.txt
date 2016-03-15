@@ -9,4 +9,4 @@ Nama	: <<isi disini>>
 
 NIM 	: <<isi disini>>
 
-KELAS   : <<isi disini>>
+KELAS   : <<isi di
